@@ -1,9 +1,7 @@
 <h2>Hey, my name is Alan.</h2>
 
-I created this account to post my personal projects and share knowledge.
-
-About me:
-
 :rocket: Systems Analysis and Development Student
 
 :rocket: Intern at IBM
+
+<a href="https://alanzf.github.io/">https://alanzf.github.io/</a>
