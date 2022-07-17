@@ -4,11 +4,11 @@
 
 <a href="https://alanzf.github.io/" target="_blank">See my page here</a>
 
-<br>
+<!--<br>
 
 <a href="https://github.com/AlanZF">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanZF&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div>-->
 
 <!--<h4>What I know:<h4>
 
