@@ -1,7 +1,6 @@
 # Hey, my name is Alan! :man_technologist:
 
-<h4>I like to create things.</h4>
-<h4>I'm a good self-taught and interested in:</h4>
+<h4>I like to create things. I'm a good self-taught and interested in:</h4>
   
 <ul>
   <li>Technological solutions</li>
