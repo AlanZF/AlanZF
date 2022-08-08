@@ -1,6 +1,13 @@
 # Hey, my name is Alan! :man_technologist:
 
-<h4>I like to create things. I am a good self-taught and interested in technological solutions, digital transformation and automation..<h4>
+<h4>I like to create things.</h4>
+<h4>I'm a good self-taught and interested in:</h4>
+  
+<ul>
+  <li>Technological solutions</li>
+  <li>Digital transformation</li>
+  <li>Automation</li>
+</ul>
 
 <a href="https://alanzf.github.io/" target="_blank">See my page here</a>
 
