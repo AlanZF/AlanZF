@@ -1,6 +1,6 @@
 # Hey, my name is Alan! :man_technologist:
 
-<h4>I like to create things. I'm a technology intern and a good self-taught.<h4>
+<h4>I like to create things. I am a good self-taught and interested in technological solutions, digital transformation and automation..<h4>
 
 <a href="https://alanzf.github.io/" target="_blank">See my page here</a>
 
