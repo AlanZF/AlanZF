@@ -10,8 +10,6 @@
   <li>Automation</li>
 </ul>
 
-<a href="https://alanzf.github.io/" target="_blank">See my page here</a>
-
 <br>
 
 <a href="https://github.com/AlanZF">
