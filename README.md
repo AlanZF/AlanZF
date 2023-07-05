@@ -23,7 +23,7 @@
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![image](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 <br>
-<p>-----------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<p>----------------</p>
 <p>Vejam também meu Medium, onde escrevo artigos sobre assuntos diversos da área de tecnologia, unindo meu gosto pela escrita com meus conhecimentos.</p>
 
 [![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alan.stfreitas)
