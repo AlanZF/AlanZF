@@ -3,7 +3,7 @@
 <h4>Este é meu repositório :nerd_face:</h4
 <p>Aqui eu compartilho códigos fontes de alguns projetos pessoais.</p>
 
-<h4>Tecnologias que conheço:</h4
+<h4>Tecnologias :star2:</h4
 <br>
 
 ![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
